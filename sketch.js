@@ -8,7 +8,7 @@ foo.speak('welcome. how can i help you');
 
 let rec = new p5.SpeechRec('eng-US',gotspeech);
 let continuous=true;
-let interimResults=true;
+let interimResults=false;
 rec.start(continuous,interimResults);
   
   let bot = new RiveScript({utf8: true});
