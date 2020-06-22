@@ -21,7 +21,9 @@ rec.start(continuous,interimResults);
      
 
 }
-
+function mousePressed() {
+  userStartAudio();
+}
 function brainError() {
   console.log('chatbot Error!');
 
