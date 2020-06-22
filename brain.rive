@@ -180,6 +180,9 @@
 < topic
 
 > topic asked_name
+  
+  + *
+  - Ok 
 
   + #
   - Your name is a number?
