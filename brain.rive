@@ -184,8 +184,7 @@
   + #
   - Your name is a number?
 
-  + *
-  - I only want your first name.
+  
 
   + <bot master>
   - <set name=<bot master>>That's my master's name too. 
